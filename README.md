@@ -1,12 +1,12 @@
-##  100 Python Projects – My Learning Journey
+##  Python Projects – My Learning Journey
 
-Welcome! This repository contains a collection of **100 Python projects** I'm building to improve my coding skills. These projects start from basic concepts and progress to intermediate-level applications.
+Welcome! This repository contains a collection of ** Python projects** I'm building to improve my coding skills. These projects start from basic concepts and progress to intermediate-level applications.
 
 Each project is simple, practical, and built with a clear learning goal in mind.
 
 
 ##  Why This?
-I believe in learning by doing. By completing 100 projects, I aim to:
+I believe in learning by doing. By completing these projects, I aim to:
 - Master Python syntax and logic
 - Practice problem-solving
 - Build a personal portfolio of work
